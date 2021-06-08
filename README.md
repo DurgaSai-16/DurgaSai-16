@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 121810402010@gitam.in / durgasainallani9999@gmail.com
 - 😄 Pronouns: Be better than how you used to be
 - ⚡ Fun fact: Life is not that complex
-- ![LinkedIn](https://www.linkedin.com/in/durga-sai-nallani-16121999d/)
--->
+- [LinkedIn](https://www.linkedin.com/in/durga-sai-nallani-16121999d/)
+--[Instagram](https://www.instagram.com/__ds.16__/)
 
 <!--
 **DurgaSai-16/DurgaSai-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
