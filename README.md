@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Be better than how you used to be
 - ⚡ Fun fact: Life is not that complex
 - [LinkedIn](https://www.linkedin.com/in/durga-sai-nallani-16121999d/)
---[Instagram](https://www.instagram.com/__ds.16__/)
-
+- [Instagram](https://www.instagram.com/__ds.16__/)
+- [Twitter](https://twitter.com/NDurgasai)
 <!--
 **DurgaSai-16/DurgaSai-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
