@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-
-Here are some ideas to get you started:
-
+WELCOME to my profile :heart_eyes:
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Deep Learning, Machine Learning, Web development, Android Devlopment, OpenCV
