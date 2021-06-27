@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 WELCOME to my profile :heart_eyes:
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Python
