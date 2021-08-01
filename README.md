@@ -16,6 +16,8 @@
 - 📫 How to reach me **121810402010@gitam.in**
 
 - ⚡ Fun fact **Life is not that complex**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasai-16&label=Profile%20views&color=0e75b6&style=flat" alt="durgasai-16" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +31,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgasai-16&" alt="durgasai-16" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgasai-16&show_icons=true&locale=en" alt="durgasai-16" /></p>
+
+
+[![Durga Sai's github activity graph](https://activity-graph.herokuapp.com/graph?username=DurgaSai-16)](https://github.com/DurgaSai-16/github-readme-activity-graph)  
+[![Durga Sai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaSai-16)](https://github.com/DurgaSai-16/github-readme-stats)
 <!--
 **DurgaSai-16/DurgaSai-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
