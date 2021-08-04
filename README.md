@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Internet of things**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning**
 
 - 🤝 I’m looking for help with **SQL, Web Development**
 
