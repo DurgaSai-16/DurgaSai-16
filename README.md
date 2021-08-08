@@ -33,8 +33,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=durgasai-16&show_icons=true&theme=dark)
 
-
-[![Durga Sai's github activity graph](https://activity-graph.herokuapp.com/graph?username=DurgaSai-16)](https://github.com/DurgaSai-16/github-readme-activity-graph)  
+  <a href="https://activity-graph.herokuapp.com/graph?username=DurgaSai-16">
+    <img src="https://activity-graph.herokuapp.com/graph?username=DurgaSai-16&theme=react-dark&hide_border=true">
+  </a>
+  
+ 
 [![Durga Sai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaSai-16)](https://github.com/DurgaSai-16/github-readme-stats)
 <!--
 **DurgaSai-16/DurgaSai-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
