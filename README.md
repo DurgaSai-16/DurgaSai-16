@@ -34,6 +34,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=durgasai-16&show_icons=true&theme=dark)
 
 
+<p align="left">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=durgasai-16&theme=xcode" />
+</p>
  
 [![Durga Sai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaSai-16)](https://github.com/DurgaSai-16/github-readme-stats)
 <!--
