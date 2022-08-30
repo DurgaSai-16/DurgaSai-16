@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm DurgaSai</h1>
+<h1 align="center">Hey 👋, I'm Durga Sai</h1>
 
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Internet of things**
+- 🌱 I’m currently learning **Internet of Things**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning**
 
