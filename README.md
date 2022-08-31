@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Durga Sai</h1>
 
-
+<!--
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Internet of Things**
@@ -16,6 +16,7 @@
 - 📫 How to reach me **121810402010@gitam.in**
 
 - ⚡ Fun fact **Life is not that complex**
+-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasai-16&label=Profile%20views&color=0e75b6&style=flat" alt="durgasai-16" /> </p>
