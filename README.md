@@ -19,7 +19,6 @@
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasai-16&label=Profile%20views&color=0e75b6&style=flat" alt="durgasai-16" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ndurgasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndurgasai" height="30" width="40" /></a>
@@ -44,6 +43,7 @@
 
 <p align="center"><img src="https://metrics.lecoq.io/durgasai-16" alt="Github Metrics"></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasai-16&label=Profile%20views&color=0e75b6&style=flat" alt="durgasai-16" /> </p>
 
 <!--
 **DurgaSai-16/DurgaSai-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
