@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Durga Sai</h1>
 
-<!--
+
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Internet of Things**
@@ -16,7 +16,7 @@
 - 📫 How to reach me **121810402010@gitam.in**
 
 - ⚡ Fun fact **Life is not that complex**
--->
+
 
 
 <h3 align="left">Connect with me:</h3>
