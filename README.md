@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm Durga Sai</h1>
 
 
@@ -62,4 +61,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
