@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Durga Sai</h1>
 
 
-
 <!--
 - 🔭 I’m currently working on **Data Science**
 
